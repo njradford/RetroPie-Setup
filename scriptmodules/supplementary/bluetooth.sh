@@ -7,6 +7,8 @@
 #
 # See the LICENSE.md file at the top-level directory of this distribution and
 # at https://raw.githubusercontent.com/RetroPie/RetroPie-Setup/master/LICENSE.md
+# TODO:
+# * Update menus with more couch-friendly menu
 #
 
 rp_module_id="bluetooth"
